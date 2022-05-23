@@ -1,1 +1,1 @@
-"# When-Bert-meet-Google-Comment" 
+# When-Bert-meet-Google-Comment
